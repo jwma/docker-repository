@@ -1,2 +1,2 @@
-# docker-repository
-My own docker repository
+# Docker repository
+My own docker repository.
